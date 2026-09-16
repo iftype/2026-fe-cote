@@ -33,7 +33,8 @@
     <td align="center"><a href="https://github.com/DongEun02"><img src="https://avatars.githubusercontent.com/u/86216821?v=4" width="100px;" alt=""/><br /><sub><b>디움</b></sub></a><br /></td>
     <td align="center"><a href="https://github.com/janghw0126"><img src="https://avatars.githubusercontent.com/u/127714800?s=130&v=4" width="100px;" alt=""/><br /><sub><b>해니</b></sub></a><br /></td>
         <td align="center"><a href="https://github.com/GamjaIsMine02"><img src="https://avatars.githubusercontent.com/u/115770858?s=130&v=4" width="100px;" alt=""/><br /><sub><b>피트</b></sub></a><br /></td>
-         <td align="center"><a href="https://github.com/iftype"><img src="https://avatars.githubusercontent.com/u/115770858?s=130&v=4" width="100px;" alt=""/><br /><sub><b>콘티</b></sub></a><br /></td>
+         <td align="center"><a href="https://github.com/iftype"><img src="https://avatars.githubusercontent.com/u/107661542?v=4" width="100px;" alt=""/><br /><sub><b>콘티</b></sub></a><br /></td>
+
 </tr>
 </table>
 
